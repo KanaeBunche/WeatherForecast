@@ -40,7 +40,7 @@ cd weather-forecast
 2. Click the search button or press Enter to retrieve the weather information.
 3. View the current weather conditions including temperature, humidity, wind speed, and weather icon.
 
-## Screenshots
+## Images
 <img width="925" alt="Screenshot 2024-01-31 at 3 05 07 PM" src="https://github.com/KanaeBunche/WeatherForecast/assets/125619060/e2b8f0fe-f8e5-4ec6-8465-23412e8127a2">
 
 <img width="922" alt="Screenshot 2024-01-31 at 3 06 35 PM" src="https://github.com/KanaeBunche/WeatherForecast/assets/125619060/cf369f67-85b3-4f60-b7cb-ed97d618071d">
@@ -55,6 +55,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Weather data provided by [OpenWeather](https://openweathermap.org/).
 - Icons sourced from [Flaticon](https://www.flaticon.com/).
+- 
 
 ---
 
