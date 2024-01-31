@@ -43,6 +43,8 @@ cd weather-forecast
 ## Screenshots
 <img width="925" alt="Screenshot 2024-01-31 at 3 05 07 PM" src="https://github.com/KanaeBunche/WeatherForecast/assets/125619060/e2b8f0fe-f8e5-4ec6-8465-23412e8127a2">
 
+<img width="922" alt="Screenshot 2024-01-31 at 3 06 35 PM" src="https://github.com/KanaeBunche/WeatherForecast/assets/125619060/cf369f67-85b3-4f60-b7cb-ed97d618071d">
+
 
 
 ## License
